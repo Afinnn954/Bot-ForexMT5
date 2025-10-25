@@ -1,0 +1,18 @@
+# Core Dependencies
+metatrader5
+python-dotenv>=1.0.0
+newsapi-python>=0.2.7
+tradingeconomics>=0.3.4
+ta-lib>=0.4.26
+rich>=13.5.2
+scikit-learn>=1.3.0
+ta>=0.10.2
+requests
+python-dateutil>=2.8.2
+numpy==1.26.4
+pandas==2.2.2
+google-genai
+python-dotenv==0.21.1
+google-generativeai==0.5.4
+yfinance==0.2.38
+matplotlib==3.8.4
